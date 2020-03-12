@@ -1,12 +1,12 @@
 # react-native-base-project
 
-Base react native application for scalable projects using Redux + React Navigation, + .....
+Base react native application for scalable projects using Redux + React Navigation v4, + .....
 
 
 ## Important dependencies:
 
 - [Redux](http://redux.js.org)
-- [React navigation](https://reactnavigation.org)
+- [React navigation V4](https://reactnavigation.org/docs/4.x/getting-started)
 - [axios](https://github.com/axios/axios)
 - [lodash](https://lodash.com/docs/)
 
